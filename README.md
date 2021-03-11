@@ -47,6 +47,8 @@ Location of All Security Warnings (by Logical ID):
 
 Additionally, a key pair has not been assigned to the created EC2 instance. Access is via the EC2 Instance Connect console. If you would like to configure a key pair, add the KeyName property to EC2Instance1 (by Logical ID). 
 
+Notes: Volumes are not encrypted. Image is not hardened. 
+
 # Prerequisites
 
 Software: 
