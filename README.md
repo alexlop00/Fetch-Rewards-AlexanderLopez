@@ -1,7 +1,7 @@
 # Fetch Rewards
 
 # Introduction
-![Topology](https://github.com/alexlop00/Fetch-Rewards/blob/main/FetchRewards.PNG) 
+![Topology](https://github.com/alexlop00/Fetch-Rewards-AlexanderLopez/blob/2c5f10d095f4ad068b6a049be661b10e3595e18d/FetchRewards.PNG) 
 
 ## Scope
 The purpose of the provided Python script is to deploy a Linux AWS EC2 instance with two volumes and two users.
@@ -74,27 +74,27 @@ Run the script: python3 automateDeployment.py
 
 Run the script.
 
-![Script](https://github.com/alexlop00/Fetch-Rewards/blob/cd138f8e3e81f9b096c548a546f5f82add8efc21/ProofofConcept/RunScript.PNG)
+![Script](https://github.com/alexlop00/Fetch-Rewards-AlexanderLopez/blob/2c5f10d095f4ad068b6a049be661b10e3595e18d/ProofofConcept/RunScript.PNG)
 
 View AWS CloudFormation.
 
-![CloudFormation](https://github.com/alexlop00/Fetch-Rewards/blob/cd138f8e3e81f9b096c548a546f5f82add8efc21/ProofofConcept/CloudFormation.PNG)
+![CloudFormation](https://github.com/alexlop00/Fetch-Rewards-AlexanderLopez/blob/2c5f10d095f4ad068b6a049be661b10e3595e18d/ProofofConcept/CloudFormation.PNG)
 
 Access EC2 Instance via EC2 Connect.
 
-![EC2 Connect](https://github.com/alexlop00/Fetch-Rewards/blob/cd138f8e3e81f9b096c548a546f5f82add8efc21/ProofofConcept/EC2Connect.png)
+![EC2 Connect](https://github.com/alexlop00/Fetch-Rewards-AlexanderLopez/blob/2c5f10d095f4ad068b6a049be661b10e3595e18d/ProofofConcept/EC2Connect.png)
 
 View created users.
 
-![Created Users](https://github.com/alexlop00/Fetch-Rewards/blob/cd138f8e3e81f9b096c548a546f5f82add8efc21/ProofofConcept/createdUsers.PNG)
+![Created Users](https://github.com/alexlop00/Fetch-Rewards-AlexanderLopez/blob/2c5f10d095f4ad068b6a049be661b10e3595e18d/ProofofConcept/createdUsers.PNG)
 
 Access user accounts via SSH private key.
 
-![SSH](https://github.com/alexlop00/Fetch-Rewards/blob/cd138f8e3e81f9b096c548a546f5f82add8efc21/ProofofConcept/SSHAccess.PNG)
+![SSH](https://github.com/alexlop00/Fetch-Rewards-AlexanderLopez/blob/2c5f10d095f4ad068b6a049be661b10e3595e18d/ProofofConcept/SSHAccess.PNG)
 
 View volume mounts.
 
-![Mounts](https://github.com/alexlop00/Fetch-Rewards/blob/cd138f8e3e81f9b096c548a546f5f82add8efc21/ProofofConcept/blockmounts.PNG)
+![Mounts](https://github.com/alexlop00/Fetch-Rewards-AlexanderLopez/blob/2c5f10d095f4ad068b6a049be661b10e3595e18d/ProofofConcept/blockmounts.PNG)
 
 
 
