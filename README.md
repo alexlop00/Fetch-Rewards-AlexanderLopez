@@ -74,6 +74,8 @@ Run the script: python3 automateDeployment.py
 
 # Proof of Concept
 
+NOTE: Code has been tested on Ubuntu 20.04 image (AMI Name: ubuntu/images/hvm-ssd/ubuntu-focal-20.04-amd64-server-20210223)
+
 Run the script.
 
 ![Script](https://github.com/alexlop00/Fetch-Rewards-AlexanderLopez/blob/2c5f10d095f4ad068b6a049be661b10e3595e18d/ProofofConcept/RunScript.PNG)
